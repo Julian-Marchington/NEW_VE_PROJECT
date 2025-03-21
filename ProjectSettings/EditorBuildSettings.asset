@@ -6,12 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/mainscene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/main.unity
+    guid: 6865b2e31ea3642e087fee20f8697fd6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4452b42f1958749b299c9b3220a31856, type: 2}
     WebXR.Settings: {fileID: 11400000, guid: 573ff3172894c4058af996303644fce2, type: 2}
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 013a76c37728d40059d699684381d556, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 00a364e0a1b104177b0b37175653a7fa, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 024907643f79f42249278610e645bbfe, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: d80c90624ee064256826028bcbff186b, type: 2}
   m_UseUCBPForAssetBundles: 0
